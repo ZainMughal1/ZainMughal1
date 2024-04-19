@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmughal1&label=Profile%20views&color=0e75b6&style=flat" alt="zainmughal1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainmughal1" alt="zainmughal1" /></a> </p>
+
 - 🔭 I’m currently working on [Daxno Technologies pvt Ltd](https://github.com/daxnotechnologies)
 
 - 🌱 I’m currently learning **MERN**
@@ -22,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainmughal1&show_icons=true&locale=en" alt="zainmughal1" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainmughal1&" alt="zainmughal1" /></p>
